@@ -1,0 +1,10 @@
+                             Atividade modulo 1
+       DISSERTATIVA
+
+1- leia e armazene o número n que deseja multiplicar por 9 #entrada
+
+2- subtrair n-1 e armazene como primeiro dígito. #processamento.
+3- Subtrair 10-n para o segundo dígito. #processamento.
+4- realize a expreção como (n1*10)+ n2 e armazene o resultado como final. #processamento
+
+5- apresente r (resultado final) e encerre o programa. #saída.
