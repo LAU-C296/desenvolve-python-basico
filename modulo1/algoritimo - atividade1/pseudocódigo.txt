@@ -1,0 +1,16 @@
+
+    PSEUDOCÓDIGO
+
+1- Início;
+
+2- leia n;
+
+3- n1=n-1;
+
+4- n2=10-n;
+
+5- r=(n1*10) + n2
+
+6- imprimir r;
+
+7- fim.
