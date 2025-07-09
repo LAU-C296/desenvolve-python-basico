@@ -1,0 +1,10 @@
+musica
+filme
+livro
+jogo
+serie
+artista
+banda
+cantor
+composicao
+poema
